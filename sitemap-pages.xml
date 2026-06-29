@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- MAIN PAGES -->
+  <url>
+    <loc>https://www.progresskingdom.com/</loc>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+    <lastmod>2026-06-17</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.progresskingdom.com/about</loc>
+    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url> 
+
+  <url>
+    <loc>https://www.progresskingdom.com/privacy-policy</loc>
+    <priority>0.2</priority>
+    <changefreq>yearly</changefreq>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+
+</urlset>
